@@ -1,0 +1,14 @@
+CFLAGS += -fno-delete-null-pointer-checks -fno-lifetime-dse -fno-schedule-insns2
+CXXFLAGS += -fno-delete-null-pointer-checks -fno-lifetime-dse -fno-schedule-insns2
+
+all:
+	make -f client.mk
+
+install:
+	make -f client.mk install INSTALL_SDK=
+	mkdir -p /app/share/pixmaps
+	ln -sf \
+		/app/lib/thunderbird-45.2.0/chrome/icons/default/default256.png \
+	        /app/share/pixmaps/org.mozilla.Thunderbird.png
+	mkdir -p /app/share/applications
+	cp org.mozilla.Thunderbird.desktop /app/share/applications
