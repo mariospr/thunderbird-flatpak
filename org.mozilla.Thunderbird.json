@@ -39,6 +39,15 @@
     ],
     "modules": [
         {
+            "name": "flatpak-xdg-open-shim",
+            "sources": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/mattdangerw/flatpak-xdg-open-shim.git"
+                }
+            ]
+        },
+        {
             "name": "alsa-lib",
             "sources": [
                 {
