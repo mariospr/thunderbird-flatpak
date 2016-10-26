@@ -100,8 +100,8 @@
                 },
                 {
                     "type": "archive",
-                    "url": "https://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/45.2.0/source/thunderbird-45.2.0.source.tar.xz",
-                    "sha256": "bd2389cbb28138668ab41b26f1dce49c455807e09b43fd370ee765ae3f0937c0"
+                    "url": "https://ftp.mozilla.org/pub/thunderbird/releases/50.0b2/source/thunderbird-50.0b2.source.tar.xz",
+                    "sha256": "36f66edbb9b0f1ff9d0de8f12eab6cccbfa23db79e01db307fb2186904a38e61"
                 }
             ]
         }
