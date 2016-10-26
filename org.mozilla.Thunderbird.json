@@ -101,7 +101,7 @@
                 {
                     "type": "archive",
                     "url": "https://ftp.mozilla.org/pub/thunderbird/releases/50.0b2/source/thunderbird-50.0b2.source.tar.xz",
-                    "sha256": "36f66edbb9b0f1ff9d0de8f12eab6cccbfa23db79e01db307fb2186904a38e61"
+                    "sha256": "5d147d50b282f570cc601478b34b28e27b85a7688cadd2376229cb4239b6209d"
                 }
             ]
         }
