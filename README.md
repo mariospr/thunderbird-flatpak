@@ -53,8 +53,7 @@ Last, you can bundle chromium to a file with the `build-bundle` subcommand:
 Prebuilt flatpaks
 -----------------
 
-By popular request, I've built myself two flatpaks of Thunderbird against the org.gnome.Platform runtime: one for x86_64/master and another for x86_64/3.20.
+By popular request, I've built myself a flatpak bundle of Thunderbird against the org.gnome.Platform runtime, for x86_64/3.24.
 
 Grab them from here:
-  * [Mozilla Thunderbird for org.gnome.Platform/x86_64/master](https://raw.githubusercontent.com/mariospr/thunderbird-flatpak/master/bundles/x86_64/master/org.mozilla.Thunderbird.flatpak)
-  * [Mozilla Thunderbird for org.gnome.Platform/x86_64/3.20](https://raw.githubusercontent.com/mariospr/thunderbird-flatpak/master/bundles/x86_64/3.20/org.mozilla.Thunderbird.flatpak)
+  * [Mozilla Thunderbird for org.gnome.Platform/x86_64/3.24](https://raw.githubusercontent.com/mariospr/thunderbird-flatpak/master/bundles/52.1/x86_64/3.24/org.mozilla.Thunderbird.flatpak)
