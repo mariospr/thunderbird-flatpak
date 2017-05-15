@@ -1,4 +1,4 @@
-VERSION = 50.0
+VERSION = 52.1.0
 CFLAGS += -fno-delete-null-pointer-checks -fno-lifetime-dse -fno-schedule-insns2
 CXXFLAGS += -fno-delete-null-pointer-checks -fno-lifetime-dse -fno-schedule-insns2
 
